@@ -1,4 +1,4 @@
-const users=require("./data/users");
+const database=require("./data/db");
 module.exports={
-    users
+    database
 }

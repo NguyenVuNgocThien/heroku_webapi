@@ -1,6 +1,8 @@
-[
 {
-      "username:": "ThienNguyen",
-      "pass": "Thien26102001"
-}
+      "users": [
+            {
+                  "username:": "ThienNguyen",
+                  "pass": "Thien26102001"
+            }
       ]
+}
